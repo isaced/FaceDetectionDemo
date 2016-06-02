@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  FaceDetectionDemo
 //
-//  Created by feeling on 16/6/2.
+//  Created by isaced on 16/6/2.
 //
 //
 
